@@ -1,7 +1,7 @@
 {
   "name": "termux-wabot",
   "version": "0.0.2",
-  "description": "No comment",
+  "description": "Não tem comando",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "MhankBarBar",
+  "author": "Vitor",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
